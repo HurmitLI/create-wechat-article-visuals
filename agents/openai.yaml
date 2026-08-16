@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号配图生成"
+  short_description: "为公众号深度文章规划并生成统一风格的封面图和正文信息图"
+  default_prompt: "Use $create-wechat-article-visuals to plan and generate a cohesive cover and inline visual set for this WeChat article."
